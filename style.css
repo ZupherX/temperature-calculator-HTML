@@ -1,0 +1,40 @@
+body{
+  background-color: hsl(0, 0%, 95%);
+}
+form{
+  background-color: white;
+  border-radius: 10px;
+  text-align: center;
+  width: 400px;
+  height: 300px;
+  margin: auto;
+  box-shadow: 5px 5px 5px hsl(0, 0%, 5%);
+}
+h1{
+  font-family: Arial;
+  padding-top: 5px;
+}
+#temperatureTextBox{
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+  padding: 10px;
+}
+label{
+  font-size: 20px;
+  font-weight: bold;
+  padding: 10px;
+}
+#submitButton{
+  background-color: red;
+  border-radius: 5px;
+  color: black;
+  font-size: 1.5em;
+  padding: 10px;
+}
+#submitButton:hover{
+  background-color: rgb(200, 0, 0);
+}
+h2{
+  font-size: 1.5em;
+}
